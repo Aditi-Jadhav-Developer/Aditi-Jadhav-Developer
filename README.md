@@ -1,6 +1,6 @@
 Hi Developers👋!
 -
-I am a passionate JavaScript Full Stack Developer with expertise in Frontend and Backend development, Design Patterns and strong problem-solving abilities. Along with my development skills, I am an active team player with good leadership skills.
+I'm a passionate Software Developer with a strong foundation in building dynamic, User-centric web applications. with experience in Angular 8+ and a Solid understanding of Node.js, I bring a full-stack perspective to my projects, ensuring seamless integration and functionality. Along with my development skills, I am an active team player with good leadership skills.
 
 ___
 
