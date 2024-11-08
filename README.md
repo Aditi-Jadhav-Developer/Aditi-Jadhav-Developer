@@ -16,7 +16,7 @@ ___
 - Design Patterns: MVC, Media Queries, Flex Box
 - Additional Skills: Responsive design principles, Problem-solving, Strong Communication and Time-Management Skills
 
-__
+___
 
 🤝 Lets Connect 
 I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or check out my repositories for more exciting work!
